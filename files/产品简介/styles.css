@@ -705,7 +705,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:101px;
+  width:361px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -723,7 +723,7 @@
   position:absolute;
   left:160px;
   top:321px;
-  width:101px;
+  width:361px;
   height:28px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
@@ -734,7 +734,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:101px;
+  width:361px;
   white-space:nowrap;
 }
 #u30_div {
@@ -1152,7 +1152,7 @@
   left:0px;
   top:0px;
   width:101px;
-  height:28px;
+  height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1168,9 +1168,9 @@
 #u61 {
   position:absolute;
   left:160px;
-  top:321px;
+  top:283px;
   width:101px;
-  height:28px;
+  height:50px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
