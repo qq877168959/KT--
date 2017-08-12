@@ -2406,8 +2406,9 @@
 #u9790 {
   position:absolute;
   left:2px;
-  top:13px;
+  top:12px;
   width:61px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u9791_img {
@@ -2433,6 +2434,7 @@
   left:2px;
   top:12px;
   width:851px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u9793_img {
@@ -2458,6 +2460,7 @@
   left:2px;
   top:12px;
   width:148px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u9795_div {
