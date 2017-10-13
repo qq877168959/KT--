@@ -778,6 +778,7 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  font-size:16px;
 }
 #u19172 {
   position:absolute;
@@ -788,11 +789,12 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  font-size:16px;
 }
 #u19173 {
   position:absolute;
   left:2px;
-  top:33px;
+  top:22px;
   width:296px;
   word-wrap:break-word;
 }
@@ -818,7 +820,7 @@
 #u19175 {
   position:absolute;
   left:2px;
-  top:20px;
+  top:31px;
   width:296px;
   word-wrap:break-word;
 }
