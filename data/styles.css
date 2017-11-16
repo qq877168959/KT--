@@ -219,7 +219,12 @@
 .image2 {
   color:#000000;
 }
+.vertical_line {
+}
 .checkbox1 {
+  text-align:left;
+}
+.radio_button1 {
   text-align:left;
 }
 .tree_node {
