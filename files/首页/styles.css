@@ -1066,7 +1066,7 @@
 #u95 {
   position:absolute;
   left:935px;
-  top:376px;
+  top:346px;
   width:169px;
   height:19px;
   font-family:'STHeitiSC-Medium', 'Heiti SC Medium', 'Heiti SC';
@@ -1087,7 +1087,7 @@
   left:0px;
   top:0px;
   width:500px;
-  height:90px;
+  height:162px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1101,9 +1101,9 @@
 #u97 {
   position:absolute;
   left:937px;
-  top:416px;
+  top:386px;
   width:500px;
-  height:90px;
+  height:162px;
   color:#FF3399;
   line-height:18px;
 }
@@ -1119,19 +1119,19 @@
   left:-1px;
   top:-1px;
   width:6px;
-  height:95px;
+  height:115px;
 }
 #u99 {
   position:absolute;
   left:919px;
-  top:378px;
+  top:348px;
   width:3px;
-  height:92px;
+  height:112px;
 }
 #u100 {
   position:absolute;
   left:2px;
-  top:38px;
+  top:48px;
   width:1px;
   visibility:hidden;
   word-wrap:break-word;
@@ -1146,7 +1146,7 @@
 #u101 {
   position:absolute;
   left:863px;
-  top:376px;
+  top:346px;
   width:40px;
   height:40px;
   font-size:16px;
