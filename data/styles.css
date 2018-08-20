@@ -123,6 +123,8 @@
 .checkbox {
   text-align:left;
 }
+.table_cell {
+}
 ._流程形状 {
 }
 ._连接线 {
@@ -155,4 +157,9 @@
   text-align:left;
 }
 .icon {
+}
+.flow_shape {
+}
+.sticky_1 {
+  text-align:left;
 }
